@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: project_1-container
-          image: abhaypuranik7/website:latest
+          image: abhaypuranik7/project_1:latest
           ports:
             - containerPort: 80
